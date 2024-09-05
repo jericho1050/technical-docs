@@ -17,4 +17,4 @@
 1. Your technical documentation should use at least one media query
 
 
-This is in compliance with the certification project for FreeCodeCamp's JavaScript Algorithms and Data Structures.
+This is in compliance with the certification project for FreeCodeCamp's Responsive Web Design
